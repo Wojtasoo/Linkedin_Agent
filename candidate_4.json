@@ -1,0 +1,495 @@
+{
+    "id": 377574373,
+    "urn": "ACoAABaBU-UBl8-VEHjHzd1q7FTv7YYJANsJSio",
+    "username": "aron-kownacki-831547a6",
+    "firstName": "Aron",
+    "lastName": "Kownacki",
+    "isCreator": false,
+    "isOpenToWork": false,
+    "isHiring": false,
+    "profilePicture": "",
+    "backgroundImage": [
+        {
+            "width": 800,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQH45h9IgkA4Cg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1634648479713?e=1733961600\u0026v=beta\u0026t=4w8pRt6QrCyQbKmOKVvPyhCp9sZxXIiRx4eibIYQAYk"
+        },
+        {
+            "width": 1400,
+            "height": 350,
+            "url": "https://media.licdn.com/dms/image/v2/C4E16AQH45h9IgkA4Cg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1634648479713?e=1733961600\u0026v=beta\u0026t=qTzwa-oOlc9AEIAQhBF-Qyjek7Wqefukk1-p02BvMto"
+        }
+    ],
+    "summary": "",
+    "headline": "Senior Java Developer w SALESmanago",
+    "geo": {
+        "country": "Poland",
+        "city": "Cracow Metropolitan Area",
+        "full": "Cracow Metropolitan Area"
+    },
+    "languages": null,
+    "educations": null,
+    "position": [
+        {
+            "companyId": 5134015,
+            "companyName": "SALESmanago - #1 AI driven CDXP",
+            "companyUsername": "salesmanago",
+            "companyURL": "https://www.linkedin.com/company/salesmanago/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKzUJTGSBWfA/company-logo_400_400/company-logo_400_400/0/1707134679205/salesmanago_cdp_marketing_automation_logo?e=1736380800\u0026v=beta\u0026t=4eeTfrCpP_ijSaeSbH13g9IbfWyorqPLyn_VCMYxZFQ",
+            "companyIndustry": "Marketing \u0026 Advertising",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "SALESmanago - #1 AI driven CDXP"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "ENG:\n\nSALESmanago is the only no-code, AI driven CDXP (all in One Customer Data Platform \u0026 Customer Experience Platform) used by 2000+ midmarket and large Enterprises in 50 countries including Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret and many other global brands. Financial Times ranks SALESmanago as the fastest growing marketing automation platform in Europe.\n\nSALESmanago is harnessing the full power of first- and zero-party data, combining advanced analytics and AI Hyperpersonalization to deliver highly configurable personalised experiences, across a comprehensive range of natively built and integrated marketing execution channels.\n\nThe company is based in Kraków, Poland and employs 300 highly experienced consultants, data scientists and engineers. SALESmanago works internationally via an extensive network of over 1000 reselling partners.\n\nGet started with SALESmanago with 2 month free Proof of Concept. Register at www.salesmanago.com\n\nPL:\n\nSALESmanago to jedyna platforma CDXP (all-in-one Customer Data Platform \u0026 Customer Experience Platform) wspierana sztuczną inteligencją i wykorzystująca podejście no-code. Wykorzystywana jest przez ponad 2000 klientów (m.in. Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret) w 50 krajach. Financial Times określił SALESmanago jako najszybciej rosnącą platformę marketing automation w Europie. \n\nSALESmanago wykorzystuje pełen potencjał danych o klientach, łącząc zaawansowaną analitykę i hiperpersonalizację do dostarczenia w pełni konfigurowalnych, spersonalizowanych doświadczeń we wszystkich kanałach marketingowych. \n\nFirma zlokalizowana jest w Krakowie i zatrudnia 300 doświadczonych konsultantów, data scientists i inżynierów. SALESmanago działa międzynarodowo dzięki szerokiej sieci ponad 1000 partnerów biznesowych.\n\nZacznij swoją podróż z SALESmanago od 2-miesięcznego darmowego Proof of Concept. Zarejestruj się na www.salesmanago.pl",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2019,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 13480,
+            "companyName": "Software Mind",
+            "companyUsername": "software-mind",
+            "companyURL": "https://www.linkedin.com/company/software-mind/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEayyV-_smnVQ/company-logo_400_400/company-logo_400_400/0/1646386545868/software_mind_logo?e=1736380800\u0026v=beta\u0026t=wR37nCLlmpifL3tHTRjxAg6C3Yqyi8daCSJKcSyambI",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "1001 - 5000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Software Mind"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2013,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 6,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1504696,
+            "companyName": "j-labs sp. z o.o.",
+            "companyUsername": "j-labs-sp--z-o-o-",
+            "companyURL": "https://www.linkedin.com/company/j-labs-sp--z-o-o-/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9-dmQjO58hQ/company-logo_400_400/company-logo_400_400/0/1696413600323/j_labs_sp__z_o_o__logo?e=1736380800\u0026v=beta\u0026t=HniVRoay8b0PIYG4aw8KVcv0Jm0_M8uTnotfE3NwRbo",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "501 - 1000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "j-labs sp. z o.o."
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2012,
+                "month": 4,
+                "day": 0
+            },
+            "end": {
+                "year": 2013,
+                "month": 1,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3276723,
+            "companyName": "Sii Polska",
+            "companyUsername": "sii-polska",
+            "companyURL": "https://www.linkedin.com/company/sii-polska/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHNxT67t_9NPQ/company-logo_400_400/company-logo_400_400/0/1716469955869/sii_polska_logo?e=1736380800\u0026v=beta\u0026t=Z4VqKosEvJ3y08rlJBVDmsqNlULuiWCcN8QjzBxB-js",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Sii Polska"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2010,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 2012,
+                "month": 3,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1025,
+            "companyName": "Hewlett-Packard",
+            "companyUsername": "hewlett-packard-enterprise",
+            "companyURL": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1736380800\u0026v=beta\u0026t=9lfA87tuV1SGd6JXS8EReaVrz1aCnj3b8c8vUurZ_7M",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "10001 - 0",
+            "title": "Java/C++ Contractor",
+            "multiLocaleTitle": {
+                "pl_PL": "Java/C++ Contractor"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Hewlett-Packard"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2009,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2010,
+                "month": 3,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3529,
+            "companyName": "Comarch",
+            "companyUsername": "comarch",
+            "companyURL": "https://www.linkedin.com/company/comarch/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2006,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 2007,
+                "month": 11,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3529,
+            "companyName": "Comarch",
+            "companyUsername": "comarch",
+            "companyURL": "https://www.linkedin.com/company/comarch/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Summer Internship",
+            "multiLocaleTitle": {
+                "pl_PL": "Summer Internship"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2006,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2006,
+                "month": 10,
+                "day": 0
+            }
+        }
+    ],
+    "fullPositions": [
+        {
+            "companyId": 5134015,
+            "companyName": "SALESmanago - #1 AI driven CDXP",
+            "companyUsername": "salesmanago",
+            "companyURL": "https://www.linkedin.com/company/salesmanago/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKzUJTGSBWfA/company-logo_400_400/company-logo_400_400/0/1707134679205/salesmanago_cdp_marketing_automation_logo?e=1736380800\u0026v=beta\u0026t=4eeTfrCpP_ijSaeSbH13g9IbfWyorqPLyn_VCMYxZFQ",
+            "companyIndustry": "Marketing \u0026 Advertising",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "SALESmanago - #1 AI driven CDXP"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "ENG:\n\nSALESmanago is the only no-code, AI driven CDXP (all in One Customer Data Platform \u0026 Customer Experience Platform) used by 2000+ midmarket and large Enterprises in 50 countries including Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret and many other global brands. Financial Times ranks SALESmanago as the fastest growing marketing automation platform in Europe.\n\nSALESmanago is harnessing the full power of first- and zero-party data, combining advanced analytics and AI Hyperpersonalization to deliver highly configurable personalised experiences, across a comprehensive range of natively built and integrated marketing execution channels.\n\nThe company is based in Kraków, Poland and employs 300 highly experienced consultants, data scientists and engineers. SALESmanago works internationally via an extensive network of over 1000 reselling partners.\n\nGet started with SALESmanago with 2 month free Proof of Concept. Register at www.salesmanago.com\n\nPL:\n\nSALESmanago to jedyna platforma CDXP (all-in-one Customer Data Platform \u0026 Customer Experience Platform) wspierana sztuczną inteligencją i wykorzystująca podejście no-code. Wykorzystywana jest przez ponad 2000 klientów (m.in. Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret) w 50 krajach. Financial Times określił SALESmanago jako najszybciej rosnącą platformę marketing automation w Europie. \n\nSALESmanago wykorzystuje pełen potencjał danych o klientach, łącząc zaawansowaną analitykę i hiperpersonalizację do dostarczenia w pełni konfigurowalnych, spersonalizowanych doświadczeń we wszystkich kanałach marketingowych. \n\nFirma zlokalizowana jest w Krakowie i zatrudnia 300 doświadczonych konsultantów, data scientists i inżynierów. SALESmanago działa międzynarodowo dzięki szerokiej sieci ponad 1000 partnerów biznesowych.\n\nZacznij swoją podróż z SALESmanago od 2-miesięcznego darmowego Proof of Concept. Zarejestruj się na www.salesmanago.pl",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2019,
+                "month": 6,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 13480,
+            "companyName": "Software Mind",
+            "companyUsername": "software-mind",
+            "companyURL": "https://www.linkedin.com/company/software-mind/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEayyV-_smnVQ/company-logo_400_400/company-logo_400_400/0/1646386545868/software_mind_logo?e=1736380800\u0026v=beta\u0026t=wR37nCLlmpifL3tHTRjxAg6C3Yqyi8daCSJKcSyambI",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "1001 - 5000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Software Mind"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2013,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 6,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1504696,
+            "companyName": "j-labs sp. z o.o.",
+            "companyUsername": "j-labs-sp--z-o-o-",
+            "companyURL": "https://www.linkedin.com/company/j-labs-sp--z-o-o-/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9-dmQjO58hQ/company-logo_400_400/company-logo_400_400/0/1696413600323/j_labs_sp__z_o_o__logo?e=1736380800\u0026v=beta\u0026t=HniVRoay8b0PIYG4aw8KVcv0Jm0_M8uTnotfE3NwRbo",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "501 - 1000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "j-labs sp. z o.o."
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2012,
+                "month": 4,
+                "day": 0
+            },
+            "end": {
+                "year": 2013,
+                "month": 1,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3276723,
+            "companyName": "Sii Polska",
+            "companyUsername": "sii-polska",
+            "companyURL": "https://www.linkedin.com/company/sii-polska/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHNxT67t_9NPQ/company-logo_400_400/company-logo_400_400/0/1716469955869/sii_polska_logo?e=1736380800\u0026v=beta\u0026t=Z4VqKosEvJ3y08rlJBVDmsqNlULuiWCcN8QjzBxB-js",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Software Engineer",
+            "multiLocaleTitle": {
+                "pl_PL": "Software Engineer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Sii Polska"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2010,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 2012,
+                "month": 3,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1025,
+            "companyName": "Hewlett-Packard",
+            "companyUsername": "hewlett-packard-enterprise",
+            "companyURL": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1736380800\u0026v=beta\u0026t=9lfA87tuV1SGd6JXS8EReaVrz1aCnj3b8c8vUurZ_7M",
+            "companyIndustry": "Information Technology \u0026 Services",
+            "companyStaffCountRange": "10001 - 0",
+            "title": "Java/C++ Contractor",
+            "multiLocaleTitle": {
+                "pl_PL": "Java/C++ Contractor"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Hewlett-Packard"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2009,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2010,
+                "month": 3,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3529,
+            "companyName": "Comarch",
+            "companyUsername": "comarch",
+            "companyURL": "https://www.linkedin.com/company/comarch/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2006,
+                "month": 11,
+                "day": 0
+            },
+            "end": {
+                "year": 2007,
+                "month": 11,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3529,
+            "companyName": "Comarch",
+            "companyUsername": "comarch",
+            "companyURL": "https://www.linkedin.com/company/comarch/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "5001 - 10000",
+            "title": "Summer Internship",
+            "multiLocaleTitle": {
+                "pl_PL": "Summer Internship"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2006,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2006,
+                "month": 10,
+                "day": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Metodologie programowania zwinnego",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Scrum",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "SQL",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Szkielet Spring",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Usługi internetowe",
+            "passedSkillAssessment": false
+        }
+    ],
+    "givenRecommendation": null,
+    "givenRecommendationCount": 0,
+    "receivedRecommendation": null,
+    "receivedRecommendationCount": 0,
+    "courses": null,
+    "certifications": null,
+    "honors": null,
+    "projects": {
+        "total": 0,
+        "items": null
+    },
+    "volunteering": null,
+    "supportedLocales": [
+        {
+            "country": "PL",
+            "language": "pl"
+        }
+    ],
+    "multiLocaleFirstName": {
+        "pl": "Aron"
+    },
+    "multiLocaleLastName": {
+        "pl": "Kownacki"
+    },
+    "multiLocaleHeadline": {
+        "pl": "Senior Java Developer w SALESmanago"
+    }
+}

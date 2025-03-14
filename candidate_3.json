@@ -1,0 +1,308 @@
+{
+    "id": 619942143,
+    "urn": "ACoAACTzkP8B0UEE1oIddyVmbGvUSdfQ_lnTcIw",
+    "username": "bartłomiej-sadkiewicz-99374a153",
+    "firstName": "Bartłomiej",
+    "lastName": "Sadkiewicz",
+    "isCreator": false,
+    "isOpenToWork": false,
+    "isHiring": false,
+    "profilePicture": "",
+    "backgroundImage": null,
+    "summary": "",
+    "headline": "Senior Java Developer",
+    "geo": {
+        "country": "Poland",
+        "city": "Cracow Metropolitan Area",
+        "full": "Cracow Metropolitan Area"
+    },
+    "languages": [
+        {
+            "name": "angielski",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "polski",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "educations": [
+        {
+            "start": {
+                "year": 2009,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2015,
+                "month": 0,
+                "day": 0
+            },
+            "fieldOfStudy": "Informatyka Stosowana",
+            "degree": "Magister inżynier (Mgr inż.)",
+            "grade": "",
+            "schoolName": "Politechnika Krakowska im. Tadeusza Kościuszki",
+            "description": "",
+            "activities": "",
+            "url": "https://www.linkedin.com/school/politechnika-krakowska-pk/",
+            "schoolId": "15095747"
+        }
+    ],
+    "position": [
+        {
+            "companyId": 17195,
+            "companyName": "ITDS Business Consultants",
+            "companyUsername": "itds",
+            "companyURL": "https://www.linkedin.com/company/itds/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEyyvrHpouvg/company-logo_400_400/company-logo_400_400/0/1659960020018/itds_logo?e=1736380800\u0026v=beta\u0026t=cjnotMj2-GY2ptBR16arfXnUpBQ1biWuA3xZO_54Qrw",
+            "companyIndustry": "Management Consulting",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "ITDS Business Consultants"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2022,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 2824973,
+            "companyName": "Altkom Software \u0026 Consulting",
+            "companyUsername": "altkom-software",
+            "companyURL": "https://www.linkedin.com/company/altkom-software/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbZ4C6sMuLxg/company-logo_400_400/company-logo_400_400/0/1663584203557/altkom_software_logo?e=1736380800\u0026v=beta\u0026t=fkMsFcnlV5VjflljwYDkirkia69TZRiBLiLA_fx_B5k",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Altkom Software \u0026 Consulting"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2022,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 0,
+            "companyName": "Comarch",
+            "companyUsername": "",
+            "companyURL": "",
+            "companyLogo": "",
+            "companyIndustry": "",
+            "companyStaffCountRange": "",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2012,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            }
+        }
+    ],
+    "fullPositions": [
+        {
+            "companyId": 17195,
+            "companyName": "ITDS Business Consultants",
+            "companyUsername": "itds",
+            "companyURL": "https://www.linkedin.com/company/itds/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEyyvrHpouvg/company-logo_400_400/company-logo_400_400/0/1659960020018/itds_logo?e=1736380800\u0026v=beta\u0026t=cjnotMj2-GY2ptBR16arfXnUpBQ1biWuA3xZO_54Qrw",
+            "companyIndustry": "Management Consulting",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "ITDS Business Consultants"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2022,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 2824973,
+            "companyName": "Altkom Software \u0026 Consulting",
+            "companyUsername": "altkom-software",
+            "companyURL": "https://www.linkedin.com/company/altkom-software/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbZ4C6sMuLxg/company-logo_400_400/company-logo_400_400/0/1663584203557/altkom_software_logo?e=1736380800\u0026v=beta\u0026t=fkMsFcnlV5VjflljwYDkirkia69TZRiBLiLA_fx_B5k",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "201 - 500",
+            "title": "Senior Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Senior Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Altkom Software \u0026 Consulting"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            },
+            "end": {
+                "year": 2022,
+                "month": 5,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 0,
+            "companyName": "Comarch",
+            "companyUsername": "",
+            "companyURL": "",
+            "companyLogo": "",
+            "companyIndustry": "",
+            "companyStaffCountRange": "",
+            "title": "Java Developer",
+            "multiLocaleTitle": {
+                "pl_PL": "Java Developer"
+            },
+            "multiLocaleCompanyName": {
+                "pl_PL": "Comarch"
+            },
+            "location": "Kraków, woj. małopolskie, Polska",
+            "description": "",
+            "employmentType": "",
+            "start": {
+                "year": 2012,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2015,
+                "month": 8,
+                "day": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 5
+        },
+        {
+            "name": "JavaScript",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Bazy danych",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 4
+        },
+        {
+            "name": "Spring Framework ",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 4
+        },
+        {
+            "name": "AngularJS",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Microservices architecture",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "HTML",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "SQL",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 4
+        },
+        {
+            "name": "Hibernate",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 4
+        },
+        {
+            "name": "REST",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        }
+    ],
+    "givenRecommendation": null,
+    "givenRecommendationCount": 0,
+    "receivedRecommendation": null,
+    "receivedRecommendationCount": 0,
+    "courses": null,
+    "certifications": null,
+    "honors": null,
+    "projects": {
+        "total": 0,
+        "items": null
+    },
+    "volunteering": null,
+    "supportedLocales": [
+        {
+            "country": "PL",
+            "language": "pl"
+        }
+    ],
+    "multiLocaleFirstName": {
+        "pl": "Bartłomiej"
+    },
+    "multiLocaleLastName": {
+        "pl": "Sadkiewicz"
+    },
+    "multiLocaleHeadline": {
+        "pl": "Senior Java Developer"
+    }
+}

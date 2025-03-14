@@ -1,0 +1,243 @@
+[
+  {
+    "profileId": 663549740,
+    "sectionMatches": {
+      "geo": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area"
+        ],
+        "explanation": "The profile's geo content fully matches the required geo, as all entries refer to the Cracow Metropolitan Area."
+      },
+      "language": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "angielski (PROFESSIONAL_WORKING)",
+          "polski (NATIVE_OR_BILINGUAL)"
+        ],
+        "explanation": "The profile includes both required languages, Polish at a native level and English at a professional working level, fulfilling the job requirements completely."
+      },
+      "education": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Master's degree in Applied Informatics from Uniwersytet Ekonomiczny w Krakowie",
+          "Engineer’s Degree in Computer Science from Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "Magister inżynier (Mgr inż.) in Informatyka Stosowana from Politechnika Krakowska im. Tadeusza Kościuszki"
+        ],
+        "explanation": "The profile includes a Master's degree in Applied Informatics and an Engineer’s Degree in Computer Science, both of which are closely related to the required education in Applied Computer Science and related fields."
+      },
+      "position": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Senior Java Developer at ITDS Business Consultants (2022 - Present)",
+          "Senior Java Developer at Altkom Software & Consulting (2015 - 2022)",
+          "Senior Java Developer at SALESmanago"
+        ],
+        "explanation": "The profile contains multiple positions explicitly titled 'Senior Java Developer', indicating a strong match with the required position. The presence of relevant experience in senior roles contributes to a high match percentage."
+      },
+      "skills": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "JAVA",
+          "Spring",
+          "SQL",
+          "Hibernate",
+          "Microservices architecture",
+          "REST",
+          "AngularJS"
+        ],
+        "explanation": "The profile contains a strong match with the required skills, particularly in Java, Spring Framework, Hibernate, SQL, Microservices architecture, and RESTful APIs. However, it lacks direct mentions of JavaScript and database management, which slightly lowers the match percentage."
+      },
+      "certifications": {
+        "matchPercentage": 0,
+        "relevantContent": [],
+        "explanation": "There are no certifications listed in the profile, and there are also no required certifications, resulting in a 0% match."
+      }
+    },
+    "overallMatch": 70.83333333333333
+  },
+  {
+    "profileId": 455601109,
+    "sectionMatches": {
+      "geo": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area"
+        ],
+        "explanation": "The profile's geo content fully matches the required geo, indicating a complete alignment with the job requirements."
+      },
+      "language": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "angielski (PROFESSIONAL_WORKING)",
+          "polski (NATIVE_OR_BILINGUAL)"
+        ],
+        "explanation": "The profile includes both required languages, Polish at a native level and English at a professional working level, fulfilling the job requirements."
+      },
+      "education": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Master's degree in Applied Informatics from Uniwersytet Ekonomiczny w Krakowie",
+          "Engineer’s Degree in Computer Science from Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "Magister inżynier (Mgr inż.) in Informatyka Stosowana from Politechnika Krakowska im. Tadeusza Kościuszki"
+        ],
+        "explanation": "The profile includes a Master's degree in Applied Informatics and an Engineer’s Degree in Computer Science, both of which are closely related to the required education in Applied Computer Science and related fields."
+      },
+      "position": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Senior Java Developer at ITDS Business Consultants (2022 - Present)",
+          "Senior Java Developer at Altkom Software & Consulting (2015 - 2022)",
+          "Senior Java Developer at SALESmanago"
+        ],
+        "explanation": "The profile contains multiple positions explicitly titled 'Senior Java Developer', indicating a strong match with the required position. The presence of relevant experience in senior roles contributes to a high match percentage."
+      },
+      "skills": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "JAVA",
+          "Spring",
+          "SQL",
+          "Hibernate",
+          "Microservices architecture",
+          "REST",
+          "AngularJS"
+        ],
+        "explanation": "The profile contains a strong match with the required skills, particularly in Java, Spring Framework, Hibernate, SQL, Microservices architecture, and RESTful APIs. However, it lacks direct mentions of JavaScript and database management, which slightly lowers the match percentage."
+      },
+      "certifications": {
+        "matchPercentage": 0,
+        "relevantContent": [],
+        "explanation": "There are no certifications listed in the profile, and there are also no required certifications, resulting in a 0% match."
+      }
+    },
+    "overallMatch": 70.83333333333333
+  },
+  {
+    "profileId": 619942143,
+    "sectionMatches": {
+      "geo": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area"
+        ],
+        "explanation": "The profile's geo content fully matches the required geo, indicating a complete alignment with the job requirements."
+      },
+      "language": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "angielski (PROFESSIONAL_WORKING)",
+          "polski (NATIVE_OR_BILINGUAL)"
+        ],
+        "explanation": "The profile includes both required languages, Polish at a native level and English at a professional working level, fulfilling the job requirements completely."
+      },
+      "education": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Master's degree in Applied Informatics from Uniwersytet Ekonomiczny w Krakowie",
+          "Engineer’s Degree in Computer Science from Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "Magister inżynier (Mgr inż.) in Informatyka Stosowana from Politechnika Krakowska im. Tadeusza Kościuszki"
+        ],
+        "explanation": "The profile includes a Master's degree in Applied Informatics and an Engineer’s Degree in Computer Science, both of which are closely related to the required education in Applied Computer Science and related fields."
+      },
+      "position": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Senior Java Developer at ITDS Business Consultants (2022 - Present)",
+          "Senior Java Developer at Altkom Software & Consulting (2015 - 2022)",
+          "Senior Java Developer at SALESmanago"
+        ],
+        "explanation": "The profile contains multiple positions explicitly titled 'Senior Java Developer', indicating relevant experience and alignment with the job requirement. The match percentage reflects the number of relevant positions compared to the total number of positions listed."
+      },
+      "skills": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "JAVA",
+          "Spring",
+          "SQL",
+          "Hibernate",
+          "Microservices architecture",
+          "REST",
+          "JavaScript",
+          "AngularJS"
+        ],
+        "explanation": "The profile contains a strong match with the required skills, particularly in Java, Spring Framework, Hibernate, SQL, and Microservices architecture. However, it lacks specific mentions of RESTful APIs and database management, which slightly lowers the match percentage."
+      },
+      "certifications": {
+        "matchPercentage": 0,
+        "relevantContent": [],
+        "explanation": "There are no certifications listed in the profile, and there are also no required certifications, resulting in a 0% match."
+      }
+    },
+    "overallMatch": 70.83333333333333
+  },
+  {
+    "profileId": 377574373,
+    "sectionMatches": {
+      "geo": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area",
+          "Cracow Metropolitan Area"
+        ],
+        "explanation": "The profile's geo content fully matches the required geo, as all entries refer to the Cracow Metropolitan Area."
+      },
+      "language": {
+        "matchPercentage": 100,
+        "relevantContent": [
+          "angielski (PROFESSIONAL_WORKING)",
+          "polski (NATIVE_OR_BILINGUAL)"
+        ],
+        "explanation": "The profile includes both required languages, Polish at a native level and English at a professional working level, fulfilling the job requirements."
+      },
+      "education": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Master's degree in Applied Informatics from Uniwersytet Ekonomiczny w Krakowie",
+          "Engineer’s Degree in Computer Science from Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+          "Magister inżynier (Mgr inż.) in Informatyka Stosowana from Politechnika Krakowska im. Tadeusza Kościuszki"
+        ],
+        "explanation": "The profile includes a Master's degree in Applied Informatics and an Engineer’s Degree in Computer Science, both of which are closely related to the required education in Applied Computer Science. This results in a high match percentage."
+      },
+      "position": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "Senior Java Developer at ITDS Business Consultants (2022 - Present)",
+          "Senior Java Developer at Altkom Software & Consulting (2015 - 2022)",
+          "Senior Java Developer at SALESmanago"
+        ],
+        "explanation": "The profile contains multiple positions explicitly titled 'Senior Java Developer', indicating a strong alignment with the job requirement. The presence of relevant experience in senior roles contributes to a high match percentage."
+      },
+      "skills": {
+        "matchPercentage": 75,
+        "relevantContent": [
+          "JAVA",
+          "Spring",
+          "SQL",
+          "Hibernate",
+          "Microservices architecture",
+          "REST",
+          "AngularJS"
+        ],
+        "explanation": "The profile contains a strong match with the required skills, particularly in Java, Spring Framework, Hibernate, SQL, Microservices architecture, and REST. However, it lacks direct mentions of JavaScript and database management, which slightly lowers the match percentage."
+      },
+      "certifications": {
+        "matchPercentage": 0,
+        "relevantContent": [],
+        "explanation": "There are no certifications listed in the profile, and there are no required certifications, resulting in a 0% match."
+      }
+    },
+    "overallMatch": 70.83333333333333
+  }
+]

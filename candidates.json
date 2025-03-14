@@ -1,0 +1,1625 @@
+[
+    {
+        "id": 663549740,
+        "urn": "ACoAACeM9ywBtPFfrUe1oJ-dXUOiimoY24B68fg",
+        "username": "marcinsekula3",
+        "firstName": "Marcin",
+        "lastName": "Sekuła",
+        "isCreator": false,
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "",
+        "backgroundImage": null,
+        "summary": "",
+        "headline": "Java developer",
+        "geo": {
+            "country": "Poland",
+            "city": "Cracow Metropolitan Area",
+            "full": "Cracow Metropolitan Area"
+        },
+        "languages": [
+            {
+                "name": "angielski",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "polski",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "educations": [
+            {
+                "start": {
+                    "year": 2016,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Computer Science",
+                "degree": "Bachelor of Science - BS",
+                "grade": "",
+                "schoolName": "Politechnika Krakowska im. Tadeusza Kościuszki",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/politechnika-krakowska-pk/",
+                "schoolId": "15095747"
+            }
+        ],
+        "position": [
+            {
+                "companyId": 599994,
+                "companyName": "IG Group",
+                "companyUsername": "iggroup",
+                "companyURL": "https://www.linkedin.com/company/iggroup/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQENshMQ7AWlXw/company-logo_400_400/company-logo_400_400/0/1688455385036/iggroup_logo?e=1736380800\u0026v=beta\u0026t=ZnFGnvFdDNUFvV8aYiJVKNzo7mQLgeEaYk56iTrhtDQ",
+                "companyIndustry": "Financial Services",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "IG Group"
+                },
+                "location": "Kraków, Woj. Małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2113,
+                "companyName": "Sabre Corporation",
+                "companyUsername": "sabre-corporation",
+                "companyURL": "https://www.linkedin.com/company/sabre-corporation/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGSuDVTo6jhHQ/company-logo_400_400/company-logo_400_400/0/1631318882606?e=1736380800\u0026v=beta\u0026t=h07AxHTpm-elU0vvb5dE7DB5jfPh0mLJOpiIMfBFoww",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Contributor Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Contributor Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sabre Corporation"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2113,
+                "companyName": "Sabre Corporation",
+                "companyUsername": "sabre-corporation",
+                "companyURL": "https://www.linkedin.com/company/sabre-corporation/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGSuDVTo6jhHQ/company-logo_400_400/company-logo_400_400/0/1631318882606?e=1736380800\u0026v=beta\u0026t=h07AxHTpm-elU0vvb5dE7DB5jfPh0mLJOpiIMfBFoww",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Associate Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Associate Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sabre Corporation"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyId": 599994,
+                "companyName": "IG Group",
+                "companyUsername": "iggroup",
+                "companyURL": "https://www.linkedin.com/company/iggroup/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQENshMQ7AWlXw/company-logo_400_400/company-logo_400_400/0/1688455385036/iggroup_logo?e=1736380800\u0026v=beta\u0026t=ZnFGnvFdDNUFvV8aYiJVKNzo7mQLgeEaYk56iTrhtDQ",
+                "companyIndustry": "Financial Services",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "IG Group"
+                },
+                "location": "Kraków, Woj. Małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2113,
+                "companyName": "Sabre Corporation",
+                "companyUsername": "sabre-corporation",
+                "companyURL": "https://www.linkedin.com/company/sabre-corporation/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGSuDVTo6jhHQ/company-logo_400_400/company-logo_400_400/0/1631318882606?e=1736380800\u0026v=beta\u0026t=h07AxHTpm-elU0vvb5dE7DB5jfPh0mLJOpiIMfBFoww",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Contributor Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Contributor Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sabre Corporation"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2020,
+                    "month": 12,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2113,
+                "companyName": "Sabre Corporation",
+                "companyUsername": "sabre-corporation",
+                "companyURL": "https://www.linkedin.com/company/sabre-corporation/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGSuDVTo6jhHQ/company-logo_400_400/company-logo_400_400/0/1631318882606?e=1736380800\u0026v=beta\u0026t=h07AxHTpm-elU0vvb5dE7DB5jfPh0mLJOpiIMfBFoww",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Associate Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Associate Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sabre Corporation"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 12,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "JAVA",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 10
+            },
+            {
+                "name": "Spring",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Python",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Linux",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Maven",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Git",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "SQL",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Hibernate",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "SVN",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 2
+            },
+            {
+                "name": "JIRA",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "JMeter",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 2
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": null,
+        "honors": null,
+        "projects": {
+            "total": 0,
+            "items": null
+        },
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "PL",
+                "language": "pl"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "pl": "Marcin"
+        },
+        "multiLocaleLastName": {
+            "pl": "Sekuła"
+        },
+        "multiLocaleHeadline": {
+            "pl": "Java developer"
+        }
+    },
+    {
+        "id": 455601109,
+        "urn": "ACoAABsn69UBcOu_1Nqt9vfvKFfP6-vXHlDquFw",
+        "username": "edmund-kiper-0716b6108",
+        "firstName": "Edmund",
+        "lastName": "Kiper",
+        "isCreator": false,
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "",
+        "backgroundImage": null,
+        "summary": "I am a backend java developer. I'm always looking for new challenges and opportunities to develop myself and improve the project I'm working on. My greatest interest is backend development however I do not shy away from new challenges. That is why as a sideproject I learn frontend technolgies to become a fullstack dev (node, react, js, etc.).",
+        "headline": "Java Developer at EPAM Systems",
+        "geo": {
+            "country": "Poland",
+            "city": "Cracow Metropolitan Area",
+            "full": "Cracow Metropolitan Area"
+        },
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Polish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "educations": [
+            {
+                "start": {
+                    "year": 2017,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 0
+                },
+                "fieldOfStudy": "Applied Informatics",
+                "degree": "Master's degree",
+                "grade": "",
+                "schoolName": "Uniwersytet Ekonomiczny w Krakowie",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/uniwersytet-ekonomiczny-w-krakowie/",
+                "schoolId": "15096501"
+            },
+            {
+                "start": {
+                    "year": 2011,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Computer Science",
+                "degree": "Engineer’s Degree",
+                "grade": "",
+                "schoolName": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+                "description": "",
+                "activities": "",
+                "url": "",
+                "schoolId": ""
+            },
+            {
+                "start": {
+                    "year": 2009,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2012,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "English Philology",
+                "degree": "Bachelor’s Degree",
+                "grade": "",
+                "schoolName": "Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu",
+                "description": "",
+                "activities": "",
+                "url": "",
+                "schoolId": ""
+            }
+        ],
+        "position": [
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "Cracow, Małopolskie, Poland",
+                "description": "- development of new features for several components\n- refactoring of the application and proposing new features\n- participation in refinement of the requirements\n- training of a new joiner and preparation for introducing him into the project\n- leading the migration to docker and spring boot of some of the older components\n- ownership of a component (managing creation of the spring service from scratch, updating, refactoring, deployment to production and support)\n- supporting and improving the stability of the project environment\n- developing application programming interface specification in open application programming interface specification\n- creating deployment scripts for open application programming interface\n- testing and refactoring the application\n- managing updates of resource bundles for Frontend part of the application",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": ".NET Developer",
+                "multiLocaleTitle": {
+                    "en_US": ".NET Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "Cracow, Małopolskie, Poland",
+                "description": "- implementing new features\n- fixing bugs\n- code refactoring\n- performed manual and functional testing\n- creating graphical user interface layout concept\n- integrating middleware part of the application with graphical user interface\n- creating code generator for generating code for the  middleware part of the application that was being implemented\n- supporting application\n- profiling application performance",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2016,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Junior Java Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Junior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "",
+                "description": "•\tDevelopment of new models, services and REST controllers.\n•\tImplementing repositories based on Spring-Data and MongoDB.\n•\tImplementation of business logic.\n•\tWriting and performing unit tests with JUnit, Mockito and Fongo.\n•\tApplication profiling.\n•\tEnvironment configuration.\n•\tHeavy code refactoring.\n•\tParticipation in Scrum sprint plannings, daily’s and retrospectives as team member.\n•\tProduct demonstration.\n•\tCode reviewing.\n•\tPair programming.",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 37885,
+                "companyName": "Robobat Polska",
+                "companyUsername": "graitec-polska",
+                "companyURL": "https://www.linkedin.com/company/graitec-polska/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGo9snOz5U2nA/company-logo_400_400/company-logo_400_400/0/1648542191249/graitec_polska_logo?e=1736380800\u0026v=beta\u0026t=PPxq3Ox-zWUUgOf4xro6t2c25FX9xmR1w95EAj9jO-k",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Junior .NET Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Junior .NET Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "Robobat Polska"
+                },
+                "location": "",
+                "description": "•\tCreating and testing addins to Autodesk Revit in C# in Visual Studio according to project specification within Graitec Power Pack for Revit Project.\n•\tConstant work with Revit API documentation in English\n•\tPractical use of TFS\n•\tCreating interfaces with MVVM design pattern in WPF\n•\tCode analysis and fixing bugs\n•\tAnalysis and creative problem solving\n•\tCommunication and cooperation with international team of programmers",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "Cracow, Małopolskie, Poland",
+                "description": "- development of new features for several components\n- refactoring of the application and proposing new features\n- participation in refinement of the requirements\n- training of a new joiner and preparation for introducing him into the project\n- leading the migration to docker and spring boot of some of the older components\n- ownership of a component (managing creation of the spring service from scratch, updating, refactoring, deployment to production and support)\n- supporting and improving the stability of the project environment\n- developing application programming interface specification in open application programming interface specification\n- creating deployment scripts for open application programming interface\n- testing and refactoring the application\n- managing updates of resource bundles for Frontend part of the application",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": ".NET Developer",
+                "multiLocaleTitle": {
+                    "en_US": ".NET Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "Cracow, Małopolskie, Poland",
+                "description": "- implementing new features\n- fixing bugs\n- code refactoring\n- performed manual and functional testing\n- creating graphical user interface layout concept\n- integrating middleware part of the application with graphical user interface\n- creating code generator for generating code for the  middleware part of the application that was being implemented\n- supporting application\n- profiling application performance",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2016,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 4972,
+                "companyName": "EPAM Systems",
+                "companyUsername": "epam-systems",
+                "companyURL": "https://www.linkedin.com/company/epam-systems/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQERhwCA4aBweA/company-logo_400_400/company-logo_400_400/0/1706845800358/epam_systems_logo?e=1736380800\u0026v=beta\u0026t=6Ncs0SeN8LsAkArdLQSjEU4v5K17F2KNGIv7FlrjFLg",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Junior Java Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Junior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "EPAM Systems"
+                },
+                "location": "",
+                "description": "•\tDevelopment of new models, services and REST controllers.\n•\tImplementing repositories based on Spring-Data and MongoDB.\n•\tImplementation of business logic.\n•\tWriting and performing unit tests with JUnit, Mockito and Fongo.\n•\tApplication profiling.\n•\tEnvironment configuration.\n•\tHeavy code refactoring.\n•\tParticipation in Scrum sprint plannings, daily’s and retrospectives as team member.\n•\tProduct demonstration.\n•\tCode reviewing.\n•\tPair programming.",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2015,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 37885,
+                "companyName": "Robobat Polska",
+                "companyUsername": "graitec-polska",
+                "companyURL": "https://www.linkedin.com/company/graitec-polska/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGo9snOz5U2nA/company-logo_400_400/company-logo_400_400/0/1648542191249/graitec_polska_logo?e=1736380800\u0026v=beta\u0026t=PPxq3Ox-zWUUgOf4xro6t2c25FX9xmR1w95EAj9jO-k",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Junior .NET Developer",
+                "multiLocaleTitle": {
+                    "en_US": "Junior .NET Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "en_US": "Robobat Polska"
+                },
+                "location": "",
+                "description": "•\tCreating and testing addins to Autodesk Revit in C# in Visual Studio according to project specification within Graitec Power Pack for Revit Project.\n•\tConstant work with Revit API documentation in English\n•\tPractical use of TFS\n•\tCreating interfaces with MVVM design pattern in WPF\n•\tCode analysis and fixing bugs\n•\tAnalysis and creative problem solving\n•\tCommunication and cooperation with international team of programmers",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Programming",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Java",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Spring Framework",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Scrum",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "C#",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "CSS",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Git",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Representational State Transfer (REST)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "RESTful WebServices",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "docker",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Spring Boot",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Dependency Injection",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Design Patterns",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Microservices",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Unit Testing",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "IntelliJ IDEA",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Mockito",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Jira",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "SoapUI",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Core Java",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "JUnit",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Web Services",
+                "passedSkillAssessment": false
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": null,
+        "honors": null,
+        "projects": {
+            "total": 0,
+            "items": null
+        },
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "en": "Edmund"
+        },
+        "multiLocaleLastName": {
+            "en": "Kiper"
+        },
+        "multiLocaleHeadline": {
+            "en": "Java Developer at EPAM Systems"
+        }
+    },
+    {
+        "id": 619942143,
+        "urn": "ACoAACTzkP8B0UEE1oIddyVmbGvUSdfQ_lnTcIw",
+        "username": "bartłomiej-sadkiewicz-99374a153",
+        "firstName": "Bartłomiej",
+        "lastName": "Sadkiewicz",
+        "isCreator": false,
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "",
+        "backgroundImage": null,
+        "summary": "",
+        "headline": "Senior Java Developer",
+        "geo": {
+            "country": "Poland",
+            "city": "Cracow Metropolitan Area",
+            "full": "Cracow Metropolitan Area"
+        },
+        "languages": [
+            {
+                "name": "angielski",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "polski",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "educations": [
+            {
+                "start": {
+                    "year": 2009,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Informatyka Stosowana",
+                "degree": "Magister inżynier (Mgr inż.)",
+                "grade": "",
+                "schoolName": "Politechnika Krakowska im. Tadeusza Kościuszki",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/politechnika-krakowska-pk/",
+                "schoolId": "15095747"
+            }
+        ],
+        "position": [
+            {
+                "companyId": 17195,
+                "companyName": "ITDS Business Consultants",
+                "companyUsername": "itds",
+                "companyURL": "https://www.linkedin.com/company/itds/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEyyvrHpouvg/company-logo_400_400/company-logo_400_400/0/1659960020018/itds_logo?e=1736380800\u0026v=beta\u0026t=cjnotMj2-GY2ptBR16arfXnUpBQ1biWuA3xZO_54Qrw",
+                "companyIndustry": "Management Consulting",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "ITDS Business Consultants"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2824973,
+                "companyName": "Altkom Software \u0026 Consulting",
+                "companyUsername": "altkom-software",
+                "companyURL": "https://www.linkedin.com/company/altkom-software/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbZ4C6sMuLxg/company-logo_400_400/company-logo_400_400/0/1663584203557/altkom_software_logo?e=1736380800\u0026v=beta\u0026t=fkMsFcnlV5VjflljwYDkirkia69TZRiBLiLA_fx_B5k",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Altkom Software \u0026 Consulting"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 0,
+                "companyName": "Comarch",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyId": 17195,
+                "companyName": "ITDS Business Consultants",
+                "companyUsername": "itds",
+                "companyURL": "https://www.linkedin.com/company/itds/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEyyvrHpouvg/company-logo_400_400/company-logo_400_400/0/1659960020018/itds_logo?e=1736380800\u0026v=beta\u0026t=cjnotMj2-GY2ptBR16arfXnUpBQ1biWuA3xZO_54Qrw",
+                "companyIndustry": "Management Consulting",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "ITDS Business Consultants"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 2824973,
+                "companyName": "Altkom Software \u0026 Consulting",
+                "companyUsername": "altkom-software",
+                "companyURL": "https://www.linkedin.com/company/altkom-software/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbZ4C6sMuLxg/company-logo_400_400/company-logo_400_400/0/1663584203557/altkom_software_logo?e=1736380800\u0026v=beta\u0026t=fkMsFcnlV5VjflljwYDkirkia69TZRiBLiLA_fx_B5k",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Altkom Software \u0026 Consulting"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 0,
+                "companyName": "Comarch",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2012,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "JavaScript",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Bazy danych",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Spring Framework ",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "AngularJS",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Microservices architecture",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "HTML",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "SQL",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Hibernate",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "REST",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": null,
+        "honors": null,
+        "projects": {
+            "total": 0,
+            "items": null
+        },
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "PL",
+                "language": "pl"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "pl": "Bartłomiej"
+        },
+        "multiLocaleLastName": {
+            "pl": "Sadkiewicz"
+        },
+        "multiLocaleHeadline": {
+            "pl": "Senior Java Developer"
+        }
+    },
+    {
+        "id": 377574373,
+        "urn": "ACoAABaBU-UBl8-VEHjHzd1q7FTv7YYJANsJSio",
+        "username": "aron-kownacki-831547a6",
+        "firstName": "Aron",
+        "lastName": "Kownacki",
+        "isCreator": false,
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "",
+        "backgroundImage": [
+            {
+                "width": 800,
+                "height": 200,
+                "url": "https://media.licdn.com/dms/image/v2/C4E16AQH45h9IgkA4Cg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1634648479713?e=1733961600\u0026v=beta\u0026t=4w8pRt6QrCyQbKmOKVvPyhCp9sZxXIiRx4eibIYQAYk"
+            },
+            {
+                "width": 1400,
+                "height": 350,
+                "url": "https://media.licdn.com/dms/image/v2/C4E16AQH45h9IgkA4Cg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1634648479713?e=1733961600\u0026v=beta\u0026t=qTzwa-oOlc9AEIAQhBF-Qyjek7Wqefukk1-p02BvMto"
+            }
+        ],
+        "summary": "",
+        "headline": "Senior Java Developer w SALESmanago",
+        "geo": {
+            "country": "Poland",
+            "city": "Cracow Metropolitan Area",
+            "full": "Cracow Metropolitan Area"
+        },
+        "languages": null,
+        "educations": null,
+        "position": [
+            {
+                "companyId": 5134015,
+                "companyName": "SALESmanago - #1 AI driven CDXP",
+                "companyUsername": "salesmanago",
+                "companyURL": "https://www.linkedin.com/company/salesmanago/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKzUJTGSBWfA/company-logo_400_400/company-logo_400_400/0/1707134679205/salesmanago_cdp_marketing_automation_logo?e=1736380800\u0026v=beta\u0026t=4eeTfrCpP_ijSaeSbH13g9IbfWyorqPLyn_VCMYxZFQ",
+                "companyIndustry": "Marketing \u0026 Advertising",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "SALESmanago - #1 AI driven CDXP"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "ENG:\n\nSALESmanago is the only no-code, AI driven CDXP (all in One Customer Data Platform \u0026 Customer Experience Platform) used by 2000+ midmarket and large Enterprises in 50 countries including Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret and many other global brands. Financial Times ranks SALESmanago as the fastest growing marketing automation platform in Europe.\n\nSALESmanago is harnessing the full power of first- and zero-party data, combining advanced analytics and AI Hyperpersonalization to deliver highly configurable personalised experiences, across a comprehensive range of natively built and integrated marketing execution channels.\n\nThe company is based in Kraków, Poland and employs 300 highly experienced consultants, data scientists and engineers. SALESmanago works internationally via an extensive network of over 1000 reselling partners.\n\nGet started with SALESmanago with 2 month free Proof of Concept. Register at www.salesmanago.com\n\nPL:\n\nSALESmanago to jedyna platforma CDXP (all-in-one Customer Data Platform \u0026 Customer Experience Platform) wspierana sztuczną inteligencją i wykorzystująca podejście no-code. Wykorzystywana jest przez ponad 2000 klientów (m.in. Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret) w 50 krajach. Financial Times określił SALESmanago jako najszybciej rosnącą platformę marketing automation w Europie. \n\nSALESmanago wykorzystuje pełen potencjał danych o klientach, łącząc zaawansowaną analitykę i hiperpersonalizację do dostarczenia w pełni konfigurowalnych, spersonalizowanych doświadczeń we wszystkich kanałach marketingowych. \n\nFirma zlokalizowana jest w Krakowie i zatrudnia 300 doświadczonych konsultantów, data scientists i inżynierów. SALESmanago działa międzynarodowo dzięki szerokiej sieci ponad 1000 partnerów biznesowych.\n\nZacznij swoją podróż z SALESmanago od 2-miesięcznego darmowego Proof of Concept. Zarejestruj się na www.salesmanago.pl",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 13480,
+                "companyName": "Software Mind",
+                "companyUsername": "software-mind",
+                "companyURL": "https://www.linkedin.com/company/software-mind/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEayyV-_smnVQ/company-logo_400_400/company-logo_400_400/0/1646386545868/software_mind_logo?e=1736380800\u0026v=beta\u0026t=wR37nCLlmpifL3tHTRjxAg6C3Yqyi8daCSJKcSyambI",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Software Mind"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 1504696,
+                "companyName": "j-labs sp. z o.o.",
+                "companyUsername": "j-labs-sp--z-o-o-",
+                "companyURL": "https://www.linkedin.com/company/j-labs-sp--z-o-o-/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9-dmQjO58hQ/company-logo_400_400/company-logo_400_400/0/1696413600323/j_labs_sp__z_o_o__logo?e=1736380800\u0026v=beta\u0026t=HniVRoay8b0PIYG4aw8KVcv0Jm0_M8uTnotfE3NwRbo",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "501 - 1000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "j-labs sp. z o.o."
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3276723,
+                "companyName": "Sii Polska",
+                "companyUsername": "sii-polska",
+                "companyURL": "https://www.linkedin.com/company/sii-polska/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHNxT67t_9NPQ/company-logo_400_400/company-logo_400_400/0/1716469955869/sii_polska_logo?e=1736380800\u0026v=beta\u0026t=Z4VqKosEvJ3y08rlJBVDmsqNlULuiWCcN8QjzBxB-js",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sii Polska"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 1025,
+                "companyName": "Hewlett-Packard",
+                "companyUsername": "hewlett-packard-enterprise",
+                "companyURL": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1736380800\u0026v=beta\u0026t=9lfA87tuV1SGd6JXS8EReaVrz1aCnj3b8c8vUurZ_7M",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Java/C++ Contractor",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java/C++ Contractor"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Hewlett-Packard"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2009,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2006,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2007,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Summer Internship",
+                "multiLocaleTitle": {
+                    "pl_PL": "Summer Internship"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2006,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyId": 5134015,
+                "companyName": "SALESmanago - #1 AI driven CDXP",
+                "companyUsername": "salesmanago",
+                "companyURL": "https://www.linkedin.com/company/salesmanago/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGKzUJTGSBWfA/company-logo_400_400/company-logo_400_400/0/1707134679205/salesmanago_cdp_marketing_automation_logo?e=1736380800\u0026v=beta\u0026t=4eeTfrCpP_ijSaeSbH13g9IbfWyorqPLyn_VCMYxZFQ",
+                "companyIndustry": "Marketing \u0026 Advertising",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Senior Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Senior Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "SALESmanago - #1 AI driven CDXP"
+                },
+                "location": "Kraków, woj. małopolskie, Polska",
+                "description": "ENG:\n\nSALESmanago is the only no-code, AI driven CDXP (all in One Customer Data Platform \u0026 Customer Experience Platform) used by 2000+ midmarket and large Enterprises in 50 countries including Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret and many other global brands. Financial Times ranks SALESmanago as the fastest growing marketing automation platform in Europe.\n\nSALESmanago is harnessing the full power of first- and zero-party data, combining advanced analytics and AI Hyperpersonalization to deliver highly configurable personalised experiences, across a comprehensive range of natively built and integrated marketing execution channels.\n\nThe company is based in Kraków, Poland and employs 300 highly experienced consultants, data scientists and engineers. SALESmanago works internationally via an extensive network of over 1000 reselling partners.\n\nGet started with SALESmanago with 2 month free Proof of Concept. Register at www.salesmanago.com\n\nPL:\n\nSALESmanago to jedyna platforma CDXP (all-in-one Customer Data Platform \u0026 Customer Experience Platform) wspierana sztuczną inteligencją i wykorzystująca podejście no-code. Wykorzystywana jest przez ponad 2000 klientów (m.in. Starbucks, Vodafone, Lacoste, New Balance, Victoria’s Secret) w 50 krajach. Financial Times określił SALESmanago jako najszybciej rosnącą platformę marketing automation w Europie. \n\nSALESmanago wykorzystuje pełen potencjał danych o klientach, łącząc zaawansowaną analitykę i hiperpersonalizację do dostarczenia w pełni konfigurowalnych, spersonalizowanych doświadczeń we wszystkich kanałach marketingowych. \n\nFirma zlokalizowana jest w Krakowie i zatrudnia 300 doświadczonych konsultantów, data scientists i inżynierów. SALESmanago działa międzynarodowo dzięki szerokiej sieci ponad 1000 partnerów biznesowych.\n\nZacznij swoją podróż z SALESmanago od 2-miesięcznego darmowego Proof of Concept. Zarejestruj się na www.salesmanago.pl",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 13480,
+                "companyName": "Software Mind",
+                "companyUsername": "software-mind",
+                "companyURL": "https://www.linkedin.com/company/software-mind/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEayyV-_smnVQ/company-logo_400_400/company-logo_400_400/0/1646386545868/software_mind_logo?e=1736380800\u0026v=beta\u0026t=wR37nCLlmpifL3tHTRjxAg6C3Yqyi8daCSJKcSyambI",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Software Mind"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 1504696,
+                "companyName": "j-labs sp. z o.o.",
+                "companyUsername": "j-labs-sp--z-o-o-",
+                "companyURL": "https://www.linkedin.com/company/j-labs-sp--z-o-o-/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9-dmQjO58hQ/company-logo_400_400/company-logo_400_400/0/1696413600323/j_labs_sp__z_o_o__logo?e=1736380800\u0026v=beta\u0026t=HniVRoay8b0PIYG4aw8KVcv0Jm0_M8uTnotfE3NwRbo",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "501 - 1000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "j-labs sp. z o.o."
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2012,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2013,
+                    "month": 1,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3276723,
+                "companyName": "Sii Polska",
+                "companyUsername": "sii-polska",
+                "companyURL": "https://www.linkedin.com/company/sii-polska/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHNxT67t_9NPQ/company-logo_400_400/company-logo_400_400/0/1716469955869/sii_polska_logo?e=1736380800\u0026v=beta\u0026t=Z4VqKosEvJ3y08rlJBVDmsqNlULuiWCcN8QjzBxB-js",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Software Engineer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Software Engineer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Sii Polska"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2010,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2012,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 1025,
+                "companyName": "Hewlett-Packard",
+                "companyUsername": "hewlett-packard-enterprise",
+                "companyURL": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1736380800\u0026v=beta\u0026t=9lfA87tuV1SGd6JXS8EReaVrz1aCnj3b8c8vUurZ_7M",
+                "companyIndustry": "Information Technology \u0026 Services",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Java/C++ Contractor",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java/C++ Contractor"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Hewlett-Packard"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2009,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2010,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Java Developer",
+                "multiLocaleTitle": {
+                    "pl_PL": "Java Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2006,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2007,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyId": 3529,
+                "companyName": "Comarch",
+                "companyUsername": "comarch",
+                "companyURL": "https://www.linkedin.com/company/comarch/",
+                "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGlpM9qZQiCg/company-logo_400_400/company-logo_400_400/0/1630630308243/comarch_logo?e=1736380800\u0026v=beta\u0026t=hUPv68gHUfRJW_EpVfnGQNnsHr_km27vD5xjJpCmN7c",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "5001 - 10000",
+                "title": "Summer Internship",
+                "multiLocaleTitle": {
+                    "pl_PL": "Summer Internship"
+                },
+                "multiLocaleCompanyName": {
+                    "pl_PL": "Comarch"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2006,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2006,
+                    "month": 10,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Metodologie programowania zwinnego",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Scrum",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "SQL",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Szkielet Spring",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Usługi internetowe",
+                "passedSkillAssessment": false
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": null,
+        "honors": null,
+        "projects": {
+            "total": 0,
+            "items": null
+        },
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "PL",
+                "language": "pl"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "pl": "Aron"
+        },
+        "multiLocaleLastName": {
+            "pl": "Kownacki"
+        },
+        "multiLocaleHeadline": {
+            "pl": "Senior Java Developer w SALESmanago"
+        }
+    }
+]
